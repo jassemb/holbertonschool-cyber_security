@@ -1,3 +1,2 @@
 #!/bin/bash
-id=$(lsb_release -i | cut -f 2-)
-echo "$id"
+echo "$(lsb_release -i | awk -F: '{print $2}' | sed 's/^[ \t]*//')"
