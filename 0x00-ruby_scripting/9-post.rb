@@ -14,7 +14,14 @@ def post_request(url, body_params = {})
 
   puts "Response status: #{response.code} #{response.message}"
   puts "Response body:"
-  puts JSON.pretty_generate(JSON.parse(response.body))
-rescue JSON::ParserError
-  puts response.body
+  begin
+    response_body = JSON.pretty_generate(JSON.parse(response.body))
+    puts response_body
+  rescue JSON::ParserError
+    puts response.body
+  end
+
+  unless response.is_a?(Net::HTTPSuccess)
+    puts "Request failed with status: #{response.code} #{response.message}"
+  end
 end
