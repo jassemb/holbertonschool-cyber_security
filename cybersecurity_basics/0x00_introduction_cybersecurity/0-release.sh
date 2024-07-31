@@ -1,2 +1,2 @@
 #!/bin/bash
-lsb_release -s -i | tr -d '\n'
+lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" && echo ""
