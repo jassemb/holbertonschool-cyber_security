@@ -24,10 +24,7 @@ fi
 decoded_password_xor=""
 
 # XOR decode each byte
-for ((i = 0; i < ${#decoded_password}; i++)); do
-    # Extract byte
-    byte=$(printf "%02x" "'${decoded_password:$i:1}")
-
+for byte in $(echo -n "$decoded_password" | od -An -t x1); do
     # Convert byte from hex to decimal and apply XOR
     xor_result=$(( 16#$byte ^ 95 ))
 
