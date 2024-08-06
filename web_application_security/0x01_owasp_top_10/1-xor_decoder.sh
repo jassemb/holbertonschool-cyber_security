@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# This script is a decoder
+# This script decodes an XOR encoded base64 string
+
+# Check if the correct number of arguments is provided
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <encoded_string>"
     exit 1
@@ -10,18 +12,28 @@ fi
 password="${1#'{xor}'}"
 
 # Decode the base64-encoded string
-decoded_password=$(echo -n "$password" | base64 -d)
+decoded_password=$(echo -n "$password" | base64 -d 2>/dev/null | tr -d '\000')
+
+# Check if base64 decoding was successful
+if [ $? -ne 0 ]; then
+    echo "Error: Invalid base64 encoding"
+    exit 1
+fi
 
 # Initialize the XOR-decoded password variable
 decoded_password_xor=""
 
-# XOR decode each character
+# XOR decode each byte
 for ((i = 0; i < ${#decoded_password}; i++)); do
-    char="${decoded_password:$i:1}"
-    ascii_value=$(printf "%d" "'$char")
-    xor_result=$(( ascii_value ^ 95 ))
-    decoded_password_xor+="$(printf "\\x$(printf '%x' $xor_result)")"
+    # Extract byte
+    byte=$(printf "%02x" "'${decoded_password:$i:1}")
+
+    # Convert byte from hex to decimal and apply XOR
+    xor_result=$(( 16#$byte ^ 95 ))
+
+    # Convert the result back to a character and append it
+    decoded_password_xor+=$(printf "\\x$(printf '%x' $xor_result)")
 done
 
-# Output the decoded password with newline handling
+# Output the decoded password, handling null bytes
 echo -e "$decoded_password_xor"
