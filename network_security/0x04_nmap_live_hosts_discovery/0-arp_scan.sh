@@ -1,2 +1,2 @@
 #!/bin/bash
-[ $EUID -ne 0 ] && echo "Run as root" && exit 1 || nmap -sn -PR $1
+sudo [ $EUID -ne 0 ] && echo "Run as root" && exit 1 || nmap -sn -PR $1
