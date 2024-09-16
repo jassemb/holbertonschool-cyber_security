@@ -1,3 +1,3 @@
 #!/bin/bash
-iptables -F && iptables -P INPUT DROP
+iptables -F 
 iptables -A INPUT -p tcp --dport ssh -j ACCEPT
