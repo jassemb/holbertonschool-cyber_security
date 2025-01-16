@@ -1,0 +1,1000 @@
+ 1017  cd - ;
+ 1018  cd ..
+ 1019  git pull
+ 1020  git stash
+ 1021  git pull
+ 1022  git pull --f
+ 1023  git pull -f
+ 1024  git pull --force
+ 1025  git pull 
+ 1026  cd web_security/
+ 1027  cd websec_0x0A/
+ 1028  ls
+ 1029  tree .
+ 1030  docker build -t testlab2 .
+ 1031  ls
+ 1032  cd LAB02
+ 1033  docker build -t testlab2 .
+ 1034  docker run -p 80:80 testlab2
+ 1035  docker build -t testlab2 .
+ 1036  docker run -p 80:80 testlab2
+ 1037  docker build -t testlab2 .
+ 1038  docker run -p 80:80 testlab2
+ 1039  docker build -t testlab2 .
+ 1040  docker run -p 80:80 testlab2
+ 1041  docker build -t testlab2 .
+ 1042  docker run -p 80:80 testlab2
+ 1043  docker build -t testlab2 .
+ 1044  docker run -p 80:80 testlab2
+ 1045  docker build -t testlab2 .
+ 1046  docker run -p 80:80 testlab2
+ 1047  clear
+ 1048  docker run -p 80:80 testlab2
+ 1049  docker build -t testlab2 .
+ 1050  docker run -p 80:80 testlab2
+ 1051  docker build -t testlab2 .
+ 1052  docker run -p 80:80 testlab2
+ 1053  docker run -p 80:5000 testlab2
+ 1054  docker build -t testlab2 .
+ 1055  docker run -p 80:80 testlab2
+ 1056  docker build -t testlab2 .
+ 1057  docker run -p 80:80 testlab2
+ 1058  docker run -p 80:5000 testlab2
+ 1059  docker run -p 5000:5000 -p 80:80  testlab2
+ 1060  docker build -t testlab2 .
+ 1061  docker run -p 5000:5000 -p 80:80  testlab2
+ 1062  docker build -t testlab2 .
+ 1063  docker run -p 5000:5000 -p 80:80  testlab2
+ 1064  docker build -t testlab2 .
+ 1065  docker run -p 5000:5000 -p 80:80  testlab2
+ 1066  docker build -t testlab2 .
+ 1067  docker run -p 5000:5000 -p 80:80  testlab2
+ 1068  docker build -t testlab2 .
+ 1069  docker run -p 5000:5000 -p 80:80  testlab2
+ 1070  ls
+ 1071  cd web_security/websec_0x0A/LAB01/
+ 1072  cd ../LAB02/
+ 1073  docker build -t testlab2 .
+ 1074  docker run -p 5000:5000 -p 80:80  testlab2
+ 1075  docker build -t testlab2 .
+ 1076  cd web_security/websec_0x0A/LAB02/
+ 1077  docker build -t testlab2 .
+ 1078  docker run -p 5000:5000 -p 80:80  testlab2
+ 1079  docker build -t testlab2 .
+ 1080  docker run -p 5000:5000 -p 80:80  testlab2
+ 1081  docker build -t testlab2 .
+ 1082  docker run -p 5000:5000 -p 80:80  testlab2
+ 1083  docker build -t testlab2 .
+ 1084  docker run -p 5000:5000 -p 80:80  testlab2
+ 1085  docker build -t testlab2 .
+ 1086  docker run -p 5000:5000 -p 80:80  testlab2
+ 1087  docker build -t testlab2 .
+ 1088  docker run -p 5000:5000 -p 80:80  testlab2
+ 1089  docker build -t testlab2 .
+ 1090  docker run -p 5000:5000 -p 80:80  testlab2
+ 1091  docker ps 
+ 1092  docker build -t testlab2 .
+ 1093  docker run -p 5000:5000 -p 80:80  testlab2
+ 1094  docker build -t testlab2 .
+ 1095  docker run -p 5000:5000 -p 80:80  testlab2
+ 1096  docker build -t testlab2 .
+ 1097  docker run -p 5000:5000 -p 80:80  testlab2
+ 1098  docker build -t testlab2 .
+ 1099  docker run -p 8000:8000 -p 80:80  testlab2
+ 1100  docker run -p 8000:8000   testlab2
+ 1101  docker build -t testlab2 .
+ 1102  docker run -p 8000:8000   testlab2
+ 1103  docker build -t testlab2 .
+ 1104  docker run -p 8000:8000   testlab2
+ 1105  docker run -p 8000:8000 -p 80:5000  testlab2
+ 1106  docker run -p 8000:8000 -p 5000:80  testlab2
+ 1107  docker build -t testlab2 .
+ 1108  docker run -p 8000:8000 -p 5000:80  testlab2
+ 1109  docker build -t testlab2 .
+ 1110  docker run -p 8000:8000 -p 5000:80  testlab2
+ 1111  docker build -t testlab2 .
+ 1112  docker run -p 8000:8000 -p 5000:80  testlab2
+ 1113  docker run -p 80:80 testlab2 
+ 1114  git add * 
+ 1115  git commit -m "lab 2 fixed"
+ 1116  git push 
+ 1117  cd 
+ 1118  sudo apt-get update
+ 1119  ruby -v
+ 1120  gem install bundler
+ 1121  sudo gem install bundler
+ 1122  gem install bundler -v 2.4.22
+ 1123  sudo gem install bundler -v 2.4.22
+ 1124  export GEM_HOME=$HOME/.gem
+ 1125  export PATH=$HOME/.gem/bin:$PATH
+ 1126  source ~/.bashrc
+ 1127  gem install bundler -v 2.4.22
+ 1128  cd 
+ 1129  ls
+ 1130  cd campusan-temp
+ 1131  cd CampusnaTemplate/
+ 1132  ls
+ 1133  code .
+ 1134  cd 
+ 1135  mkdir template
+ 1136  cd template/
+ 1137  git clone https://github.com/tekouin-wescale/CampusnaTemplate.git
+ 1138  cd CampusnaTemplate/
+ 1139  code .
+ 1140  docker ps
+ 1141  docker stop $(docker ps -q)
+ 1142  docker ps
+ 1143  ls
+ 1144  cd
+ 1145  cd /var/l
+ 1146  dockezr ps 
+ 1147  docker ps 
+ 1148  docker stop a3d02f890a74 
+ 1149  docker ps 
+ 1150  docker stop fc42e07ab232 
+ 1151  docker ps 
+ 1152  docker exec -it 4e6819bee185 /bin/bash 
+ 1153  docker ps
+ 1154  docker stop 4e6819bee185 
+ 1155  docker ps 
+ 1156  docker exec -it 3123f5c728a6 /bin/bash 
+ 1157  git branch
+ 1158  git add *
+ 1159  git commit -m"new project"
+ 1160  git push
+ 1161  cd ..
+ 1162  rm -rf
+ 1163  git clone https://github.com/tekouin-wescale/CampusnaTemplate.git
+ 1164  ls
+ 1165  rm -rf CampusnaTemplate/
+ 1166  git clone https://github.com/tekouin-wescale/CampusnaTemplate.git
+ 1167  cd CampusnaTemplate/
+ 1168  ls
+ 1169  code .
+ 1170  git rm *
+ 1171  git commit -m all
+ 1172  git push
+ 1173  ls
+ 1174  git add *
+ 1175  git commit -m"template"
+ 1176  git push
+ 1177  git rm campusan-v3.git/
+ 1178  git rm -r campusan-v3.git/
+ 1179  git commit -m campusan-v3.git 
+ 1180  git push
+ 1181  git branch
+ 1182  cd 
+ 1183  cd campusan-v3/
+ 1184  ls
+ 1185  code .
+ 1186  cd 
+ 1187  cd CampusnaTemplate/
+ 1188  git pull
+ 1189  ls
+ 1190  git branch
+ 1191  git rm *
+ 1192  git -r rm *
+ 1193  git rm -r * 
+ 1194  git branch
+ 1195  git switch main 
+ 1196  git stash 
+ 1197  git switch main 
+ 1198  git pull
+ 1199  git rm *
+ 1200  git rm -r *
+ 1201  git add *
+ 1202  git add * -f 
+ 1203  git commit -m"new project addedd"
+ 1204  git push
+ 1205  git branch 
+ 1206  cd 
+ 1207  cd Holberton_Cyber/
+ 1208  code .
+ 1209  cd holbertonschool-cyber_security
+ 1210  ls
+ 1211  mkdir cybersecurity_basics
+ 1212  cd cybersecurity_basics/
+ 1213  mkdir 0x00_introduction_cybersecurity
+ 1214  cd 0x00_introduction_cybersecurity/
+ 1215  cd ..
+ 1216  code .
+ 1217  git pull
+ 1218  cd 3183/
+ 1219  code .
+ 1220  ls
+ 1221  code .
+ 1222  git add *
+ 1223  git commit -m"cyber project"
+ 1224  git push
+ 1225  cd 0x00_introduction_cybersecurity/
+ 1226  git add *
+ 1227  git commit -m"test"
+ 1228  git push
+ 1229  chmod +x 0-release.sh 
+ 1230  git add *
+ 1231  git commit -m"test"
+ 1232  git push
+ 1233  ./s
+ 1234  ./0-release.sh 
+ 1235  git add *
+ 1236  git commit -m"test"
+ 1237  git push
+ 1238  ./0-release.sh 
+ 1239  git add µ
+ 1240  git add *
+ 1241  git commit -m"test"
+ 1242  git push
+ 1243  ./0-release.sh 
+ 1244  git add *
+ 1245  git commit -m"test"
+ 1246  git push
+ 1247  cd
+ 1248  ls
+ 1249  cd corrections_hbtn/
+ 1250  ls
+ 1251  cd corrections/
+ 1252  ls
+ 1253  code .
+ 1254  ruby main.rb
+ 1255  cd 31469/
+ 1256  ruby main.rb
+ 1257  ruby 0-main.rb
+ 1258  ls
+ 1259  ruby 0-main.rb
+ 1260  ruby 1-main.rb
+ 1261  ruby 1-main.rb > output_0
+ 1262  ruby 0-main.rb > output_0
+ 1263  ruby 1-main.rb > output_1
+ 1264  git add *
+ 1265  git commit test 
+ 1266  git commit -m "test" 
+ 1267  git push
+ 1268  git pull
+ 1269  git push
+ 1270  cd ..
+ 1271  cd 31470/
+ 1272  ls
+ 1273  ruby 0-main.rb 
+ 1274  ruby 0-main.rb > output_0
+ 1275  ruby 0-main.rb 
+ 1276  ruby 0-main.rb > output_0
+ 1277  git add 0-main.rb output_0 
+ 1278  git commit -m"test 1"
+ 1279  git push
+ 1280  ruby 1-hello_world_class.rb 
+ 1281  ls
+ 1282  ruby 1-hello_world_class.rb 
+ 1283  cd ..
+ 1284  cd 31471/
+ 1285  ls
+ 1286  ruby 1-main.rb 
+ 1287  ruby 0-main.rb 
+ 1288  ruby 0-main.rb > 1-main.rb 
+ 1289  ruby 0-main.rb > 1_output
+ 1290  ruby 0-main.rb > 0_output
+ 1291  ruby 1-main.rb > 1_output
+ 1292  ruby 2-main.rb > 1_output
+ 1293  ruby 1-main.rb > 1_output
+ 1294  ruby 2-main.rb > 2_output
+ 1295  git add *
+ 1296  git commit -m"task 1"
+ 1297  git push
+ 1298  git rm 2-factorial-function.rb 
+ 1299  git commit -m task
+ 1300  git push
+ 1301  cd ..
+ 1302  cd 31472
+ 1303  ls
+ 1304  ld
+ 1305  ls
+ 1306  ruby 0-main.rb > 0_output
+ 1307  ruby 1-main.rb > 1_output
+ 1308  ruby 2-main.rb > 2_output
+ 1309  ruby 0-main.rb 
+ 1310  cd ..
+ 1311  cd 31473
+ 1312  ruby 0-main.rb 
+ 1313  ruby 1-main.rb 
+ 1314  ls
+ 1315  ruby 1-main.rb 
+ 1316  ruby 0-main.rb > output_0
+ 1317  ruby 1-main.rb > output_1
+ 1318  ls
+ 1319  git add 0-main.rb 1-main.rb output_0 output_1
+ 1320  git commit -m task4
+ 1321  git push
+ 1322  ls
+ 1323  ruby 1-main.rb 
+ 1324  ruby 0-main.rb 
+ 1325  ruby 0-main.rb > output_0
+ 1326  ruby 1-main.rb > output_1
+ 1327  ruby 0-main.rb 
+ 1328  git add 0-main.rb 1-main.rb output_0 output_1
+ 1329  git commit -m task4
+ 1330  git push
+ 1331  cd ..
+ 1332  cd 31474
+ 1333  ls
+ 1334  ruby 5-read_file.rb 
+ 1335  ruby 0-main.rb 
+ 1336  ruby 0-main.rb > output_0
+ 1337  ruby 1-main.rb > output_1
+ 1338  ls
+ 1339  cd 
+ 1340  cd holbertonschool-cyber_security
+ 1341  ls
+ 1342  mkdir 0x00-ruby_scripting
+ 1343  cd 0x00-ruby_scripting/
+ 1344  code .
+ 1345  ruby main.rb
+ 1346  git add *
+ 1347  git commit -m"test"
+ 1348  git push
+ 1349  git add *
+ 1350  git commit -m"test"
+ 1351  git push
+ 1352  cd 
+ 1353  ls
+ 1354  cd holbertonschool-cyber_security/
+ 1355  cd 0x00-ruby_scripting/
+ 1356  ls
+ 1357  code .
+ 1358  cd 
+ 1359  ls
+ 1360  cd Holberton_Cyber/
+ 1361  code .
+ 1362  cd
+ 1363  ls
+ 1364  cd holbertonschool-cyber_security/
+ 1365  code .
+ 1366  pip install boto3
+ 1367  python3 -m pip install --upgrade pip
+ 1368  pip install boto3
+ 1369  chmod +x test.sh 
+ 1370  ./test.sh 
+ 1371  aws configure
+ 1372  ./test.sh 
+ 1373  sudo service docker start
+ 1374  ./test.sh 
+ 1375  docker ps
+ 1376  docker images
+ 1377  ls
+ 1378  ./test.sh netsec_0x02
+ 1379  docker ps
+ 1380  docker stop 7f788c35c0f4
+ 1381  ./test.sh latest
+ 1382  docker ps
+ 1383  docker images
+ 1384  ./test.sh 
+ 1385  docker ps
+ 1386  ls
+ 1387  ./test.sh web07
+ 1388  echo "# Test_env_cyber" >> README.md
+ 1389  git init
+ 1390  git add README.md
+ 1391  git commit -m "first commit"
+ 1392  git branch -M main
+ 1393  git remote add origin https://github.com/tekouin-wescale/Test_env_cyber.git
+ 1394  git push -u origin main
+ 1395  ls
+ 1396  ./test.sh test-env 
+ 1397  ./test.sh test-env web07
+ 1398  ls
+ 1399  git add *
+ 1400  git commit -m"pull form aws test env for cyber labs"
+ 1401  git push
+ 1402  cd ..
+ 1403  ls
+ 1404  cd holbertonschool-cyber_security/
+ 1405  ls
+ 1406  cd 0x00-ruby_scripting/
+ 1407  ls
+ 1408  cd 
+ 1409  cd ls
+ 1410  ls
+ 1411  cd Holberton_Cyber/
+ 1412  ls
+ 1413  cd web_security/
+ 1414  ls
+ 1415  cd 
+ 1416  cd holbertonschool-cyber_security
+ 1417  ls
+ 1418  cd web_application_security/
+ 1419  ls
+ 1420  cd ..
+ 1421  ls
+ 1422  cd 0x00-ruby_scripting/
+ 1423  ls
+ 1424  cd 
+ 1425  ls
+ 1426  cd Holbertoncyber2/
+ 1427  ls
+ 1428  cd 
+ 1429  ls
+ 1430  cd Project/
+ 1431  ls
+ 1432  cd
+ 1433  cd ..
+ 1434  ls
+ 1435  cd Vulnerability_Research_&_Exploitation/
+ 1436  mv 'Vulnerability_Research_&_Exploitation' Vulnerability_Research_&_Exploitation
+ 1437  mv 'Vulnerability_Research_&_Exploitation' Vulnerability_Research_Exploitation
+ 1438  cd ..
+ 1439  cd Holberton
+ 1440  cd Holberton_Cyber/
+ 1441  code .
+ 1442  ls
+ 1443  cd web_security/
+ 1444  ls
+ 1445  cd websec_0x06/
+ 1446  ls
+ 1447  docker build -t web0x06
+ 1448  ls
+ 1449  docker build -t web0x06 .
+ 1450  ls
+ 1451  cd ..
+ 1452  docker build -t web0x06
+ 1453  docker build -t web0x06 .
+ 1454  docker tag web0x06 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web0x06
+ 1455  docker push 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:latest
+ 1456  docker push 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web0x06
+ 1457  aws ecr get-login-password --region eu-central-1 | docker login --username AWS --password-stdin 434992383489.dkr.ecr.eu-central-1.amazonaws.com
+ 1458  docker tag web0x06 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web0x06
+ 1459  docker push 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web0x06
+ 1460  docker tag web0x06:latest 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web0x06:latest
+ 1461  docker push 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web0x06:latest
+ 1462  docker images
+ 1463  docker build -t test-env .
+ 1464  docker tag test-env:latest 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:latest
+ 1465  docker tag test-env:web0x06 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:web0x06
+ 1466  web0x06docker rmi $(docker images -q)
+ 1467  docker rmi $(docker images -q)
+ 1468  docker images
+ 1469  docker rm $(docker ps -a -q)
+ 1470  docker rmi $(docker images -q)
+ 1471  docker images
+ 1472  docker rmi fb1b386f81d9
+ 1473  docker rmi -f fb1b386f81d9
+ 1474  docker images
+ 1475  docker rmi -f 02f277087130  
+ 1476  docker images
+ 1477  cd ..
+ 1478  s
+ 1479  ls
+ 1480  cd ..
+ 1481  ls
+ 1482  cd web_security/
+ 1483  ls
+ 1484  cd websec_0x07/
+ 1485  docker build -t web07 .
+ 1486  docker images
+ 1487  docker tag test-env:latest 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:latest
+ 1488  docker tag web07:latest 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web07:latest
+ 1489  docker push 434992383489.dkr.ecr.eu-central-1.amazonaws.com/web07:latest
+ 1490  docker build -t test-env:web07
+ 1491  docker build -t test-env:web07 .
+ 1492  docker images
+ 1493  docker tag test-env:web07 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:web07
+ 1494  docker push 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:web07
+ 1495  ls
+ 1496  docker rm $(docker ps -a -q)
+ 1497  docker ps -a 
+ 1498  docker stop 78d236f8d86e
+ 1499  ls
+ 1500  docker images
+ 1501  docker rmi 92c1bf590628 92c1bf590628 92c1bf590628 92c1bf590628
+ 1502  docker rmi -f 92c1bf590628 92c1bf590628 92c1bf590628 92c1bf590628
+ 1503  docker images
+ 1504  docker run -d -p 8080:80 434992383489.dkr.ecr.eu-central-1.amazonaws.com/test-env:web07
+ 1505  docker ps -a 
+ 1506  docker stop 69e6dece2f5a
+ 1507  docker ps -a 
+ 1508  docker stop 69e6dece2f5a
+ 1509  docker stop 78d236f8d86e
+ 1510  docker ps -a 
+ 1511  docker ps
+ 1512  docker images
+ 1513  docker rmi -f 92c1bf590628
+ 1514  docker ps -a 
+ 1515  ls
+ 1516  git add .
+ 1517  git commit -m"fix name folder"
+ 1518  git push
+ 1519  ls
+ 1520  cd web_security/
+ 1521  ls
+ 1522  cd websec_0x0A/
+ 1523  ls
+ 1524  git rm LAB03 LAB04 LAB05
+ 1525  git rm -r LAB03 LAB04 LAB05
+ 1526  git add *
+ 1527  git commit -m"delete labs"
+ 1528  git push
+ 1529  git rm -r LAB05
+ 1530  git add *
+ 1531  git commit -m"delete labs"
+ 1532  git push
+ 1533  git add *
+ 1534  git commit -m"add new labs"
+ 1535  git push
+ 1536  cd 
+ 1537  mkdir test_env
+ 1538  cd test_env/
+ 1539  ls
+ 1540  code .
+ 1541  cd
+ 1542  mkdir ha9i
+ 1543  cd ha9i/
+ 1544  code .
+ 1545  Creating a Next.js project with TypeScript and TailwindCSS involves several steps. Here's a detailed guide to help you set up your project:
+ 1546  npx create-next-app@latest --typescript
+ 1547  cd haki/
+ 1548  ls
+ 1549  npm run dev
+ 1550  nvm use v18.17.0
+ 1551  npm run dev
+ 1552  npm i @fontsource/montserrat
+ 1553  npm run dev
+ 1554  ls
+ 1555  cd ..
+ 1556  ls
+ 1557  npx create-next-app@latest 
+ 1558  ls
+ 1559  ccd project_web/
+ 1560  cd project_web/
+ 1561  code .
+ 1562  cd 0x00-ruby_scripting/
+ 1563  ls
+ 1564  cd ..
+ 1565  cd cybersecurity_basics/
+ 1566  cd 0x00_introduction_cybersecurity/
+ 1567  ls
+ 1568  chmod +x 1-gen_password.sh 
+ 1569  git add *
+ 1570  git commit -m"test"
+ 1571  git push
+ 1572  cd 
+ 1573  ls
+ 1574  cd Holberton
+ 1575  cd Holberton_Cyber/
+ 1576  ls
+ 1577  cd web_security/
+ 1578  ls
+ 1579  code .
+ 1580  npm run dev
+ 1581  mvn use v18.17.0
+ 1582  npm run dev
+ 1583  nvm use v18.17.0
+ 1584  npm run dev
+ 1585  ls
+ 1586  npm run dev
+ 1587  ls
+ 1588  mvn use v18.17.0
+ 1589  mvn use 18.17.0
+ 1590  nvm use v18.17.0
+ 1591  npm run dev
+ 1592  npm install react-router-dom
+ 1593  npm run dev
+ 1594  mkdir script
+ 1595  cd script/
+ 1596  code .
+ 1597  python3 script.py 
+ 1598  cd
+ 1599  ls
+ 1600  cd Holberton_Cyber/
+ 1601  code .
+ 1602  curl -l http://3.84.229.170:6565/
+ 1603  sudo openvpn --config your-config-file.ovpn
+ 1604  sudo openvpn --config beta-tun-1.ovpn
+ 1605  ifconfig
+ 1606  nano /etc/hosts
+ 1607  sudo bash -c 'echo "10.42.201.72    active.hbtn" >> /etc/hosts'
+ 1608  cat /etc/hosts'
+ 1609  cat /etc/hosts
+ 1610  sudo bash -c 'echo "10.42.15.195    active.hbtn" >> /etc/hosts'
+ 1611  cat /etc/hosts
+ 1612  sudo vi /etc/hosts
+ 1613  cat /etc/hosts
+ 1614  sudo vi /etc/host
+ 1615  sudo vi /etc/hosts
+ 1616  sudo bash -c 'echo "10.42.15.195    active.hbtn" >> /etc/hosts'
+ 1617  ifconfig
+ 1618  ping 10.42.15.195
+ 1619  ping 10.42.15.1_5
+ 1620  ping 10.42.15.185
+ 1621  ping b10.42.164.185
+ 1622  ping 10.42.164.185
+ 1623  sudo vi /etc/hosts
+ 1624  lss
+ 1625  ls
+ 1626  cd
+ 1627  ls
+ 1628  cd 
+ 1629  curl -l 3.91.253.44:6565
+ 1630  curl -l 3.91.253.44
+ 1631  ping  3.91.253.44
+ 1632  cd 
+ 1633  sudo mkdir -p /etc/apt/keyrings && curl -fsSL https://packages.openvpn.net/packages-repo.gpg | sudo tee /etc/apt/keyrings/openvpn.asc
+ 1634  echo "deb [signed-by=/etc/apt/keyrings/openvpn.asc] https://packages.openvpn.net/openvpn3/debian $DISTRO main" | sudo tee /etc/apt/sources.list.d/openvpn-packages.list
+ 1635  sudo apt update
+ 1636  nano /etc/apt/sources.list
+ 1637  nano /etc/apt/sources.list.d/
+ 1638  cd  /etc/apt/sources.list.d/
+ 1639  lq
+ 1640  ls
+ 1641  rm -rf openvpn-packages.list 
+ 1642  sudo rm -rf openvpn-packages.list 
+ 1643  sudo apt update
+ 1644  cd
+ 1645  sudo apt install openvpn
+ 1646  openvpn --version
+ 1647  mkdir vpnkey
+ 1648  cd vpnkey/
+ 1649  ls
+ 1650  code .
+ 1651  ls
+ 1652  cd 
+ 1653  cd -
+ 1654  curl -l 
+ 1655  10.42.164.185
+ 1656  curl -l 10.42.164.185
+ 1657  curl 10.42.164.185
+ 1658  curl http://active.hbtn
+ 1659  #!/bin/bash
+ 1660  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]"
+ 1661  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" | echo " "
+ 1662  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" | echo "$\"
+ 1663  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" | 
+ 1664  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" | echo "\n"
+ 1665  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]"&& echo -e"\n"
+ 1666  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" && echo -e"\n"
+ 1667  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" && echo "\n"
+ 1668  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" 
+ 1669  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" && echo "\n"
+ 1670  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" && echo ""
+ 1671  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" | sed '$a\'
+ 1672  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]"
+ 1673  lsb_release -a | grep "Distributor ID:" | cut -d ":" -f2 | tr -d "[:space:]" | sed '$a\'
+ 1674  lsb_release -IS
+ 1675  lsb_release -is
+ 1676  ls
+ 1677  git clone https://github.com/hs-hq/corrections_hbtn.git
+ 1678  cd corrections_hbtn/
+ 1679  ls
+ 1680  cd corrections/
+ 1681  cd hbtn-lab/
+ 1682  ls
+ 1683  code .
+ 1684  cd 
+ 1685  ls
+ 1686  cd Holberton_Cyber/
+ 1687  code .
+ 1688  git add .
+ 1689  git commit -m test
+ 1690  git push
+ 1691  git pull
+ 1692  git push
+ 1693  ls
+ 1694  chmod +x 1-xor_decoder.sh 
+ 1695  ls
+ 1696  /1-xor_decoder.sh {xor}KzosKw==
+ 1697  ./1-xor_decoder.sh {xor}KzosKw==
+ 1698  ./1-xor_decoder.sh dGVzdA==
+ 1699  chmod +x base.sh 
+ 1700  ./base.sh dGVzdA==
+ 1701  ./1-xor_decoder.sh Lj8pLg==
+ 1702  ./1-xor_decoder.sh {xor}KzosKw==
+ 1703  git add 1-xor_decoder.sh 
+ 1704  git commit -m"rtest"
+ 1705  git push
+ 1706  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1707  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6DQAKT4zKjo=
+ 1708  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1709  git add 1-xor_decoder.sh 
+ 1710  git commit -m tets
+ 1711  git push
+ 1712  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1713  git add µ
+ 1714  git add *
+ 1715  git commit -m"rtest"
+ 1716  git push
+ 1717  ./1-xor_decoder.sh eW9zcmlfY2hlY2tfdmFsdWU=
+ 1718  ./1-xor_decoder.sh {xor}eW9zcmlfY2hlY2tfdmFsdWU=
+ 1719  ./1-xor_decoder.sh eW9zcmlfY2hlY2tfdmFsdWU=
+ 1720  ./1-xor_decoder.sh {xor}eW9zcmlfY2hlY2tfdmFsdWU=
+ 1721  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1722  ./1-xor_decoder.sh {xor}ʋ+^rKږ
+ 1723  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1724  ./1-xor_decoder.sh {xor}eW9zcmlfY2hlY2tfdmFsdWU=
+ 1725  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1726  ./1-xor_decoder.sh {xor}eW9zcmlfY2hlY2tfdmFsdWU=
+ 1727  ./1-xor_decoder.sh eW9zcmlfY2hlY2tfdmFsdWU=
+ 1728  ./1-xor_decoder.sh {xor}eW9zcmlfY2hlY2tfdmFsdWU=
+ 1729  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1730  ./base.sh 
+ 1731  ./1-xor_decoder.sh {xor}JjAsLTYAPDc6PDQAKT4zKjo=
+ 1732  nc http://web0x07.hbtn/find_your_shell/find_your_shell.php
+ 1733  nc http://web0x07.hbtn/find_your_shell/find_your_shell.php 80
+ 1734  nc http://web0x07.hbtn/ 80
+ 1735  nc http://web0x07.hbtn 80
+ 1736  ifconfig
+ 1737  cd 
+ 1738  ls
+ 1739  cd holbertonschool-cyber_security
+ 1740  ls
+ 1741  cd web_application_security/
+ 1742  ls
+ 1743  mkdir 0x01_owasp_top_10
+ 1744  cd 0x01_owasp_top_10/
+ 1745  code .
+ 1746  cd cybersecurity_basics/
+ 1747  code .
+ 1748  cd
+ 1749  ifconfig
+ 1750  openvpn --version
+ 1751  ls
+ 1752  cd /etc/
+ 1753  ls
+ 1754  cd openvpn/
+ 1755  ls
+ 1756  cd client/
+ 1757  ls
+ 1758  cd ..
+ 1759  ls
+ 1760  cd
+ 1761  cd Holberton_c
+ 1762  cd Holberton_Cyber/code .
+ 1763  cd Holberton_Cyber/
+ 1764  code .
+ 1765  cd 
+ 1766  cd holbertonschool-cyber_security/
+ 1767  ls
+ 1768  code .
+ 1769  cd ..
+ 1770  cp holbertonschool-cyber_security ttt
+ 1771  cp -r holbertonschool-cyber_security ttt
+ 1772  cd ttt/
+ 1773  ls
+ 1774  ll
+ 1775  rm .git/
+ 1776  rm -rf .git/
+ 1777  echo "# holbertonschool-cyber_b" >> README.md
+ 1778  git init
+ 1779  git add README.md
+ 1780  git commit -m "first commit"
+ 1781  git branch -M main
+ 1782  git remote add origin https://github.com/jassemb/holbertonschool-cyber_b.git
+ 1783  git push -u origin main
+ 1784  ls
+ 1785  git add .
+ 1786  git commit -m"test"
+ 1787  git push
+ 1788  ll
+ 1789  git add .
+ 1790  git commit -m"test"
+ 1791  git push
+ 1792  cd web_application_security/
+ 1793  ls
+ 1794  code .
+ 1795  cd ..
+ 1796  ls
+ 1797  cd web_application_security/
+ 1798  ls
+ 1799  git add .
+ 1800  git commit -m"test"
+ 1801  git push
+ 1802  cd ..
+ 1803  ls
+ 1804  cd web_application_security/
+ 1805  ls
+ 1806  git add .
+ 1807  cd 
+ 1808  ls
+ 1809  cd Holberton_Cyber/
+ 1810  ls
+ 1811  cd 
+ 1812  cd holbertonschool-cyber_security/
+ 1813  code .
+ 1814  git add 0x00-ruby_scripting/
+ 1815  git commit -m"test"
+ 1816  git push
+ 1817  cd network_security/
+ 1818  cd 0x04_nmap_live_hosts_discovery/
+ 1819  git add 0-arp_scan.sh 
+ 1820  git commit -m"test"
+ 1821  git push
+ 1822  git add 0-arp_scan.sh 
+ 1823  git commit -m"test"
+ 1824  git push
+ 1825  git add 0-arp_scan.sh 
+ 1826  git commit -m"test"
+ 1827  git push
+ 1828  git add 0-arp_scan.sh 
+ 1829  git commit -m"test"
+ 1830  git push
+ 1831  git add 0-arp_scan.sh 
+ 1832  git commit -m"test"
+ 1833  git push
+ 1834  git add 0-arp_scan.sh 
+ 1835  git commit -m"test"
+ 1836  git push
+ 1837  git commit -m"test"
+ 1838  git push
+ 1839  git add 0-arp_scan.sh 
+ 1840  git commit -m"test"
+ 1841  git push
+ 1842  git add 0-arp_scan.sh 
+ 1843  git commit -m"test"
+ 1844  git push
+ 1845  ls
+ 1846  ifconfig
+ 1847  ll
+ 1848  nmap -sU -p 200-300 10.42.115.170
+ 1849  sudo nmap -sU -p 200-300 10.42.115.170
+ 1850  ping 10.42.154.217
+ 1851  ls
+ 1852  sudo nmap -sU -p 200-300 10.42.115.170
+ 1853  sudo nmap -sU -PU 200-300 10.42.115.170
+ 1854  sudo nmap -sU -p 200-300 -Pn 10.42.115.170
+ 1855  sudo nmap -sU -p 1234 -sV 192.168.1.10
+ 1856  sudo nmap -sU -p200-300  -sV 192.168.1.10
+ 1857  sudo nmap -sU -p 200-300 -Pn 10.42.115.170
+ 1858  sudo nmap -sU -p 200 -Pn 10.42.115.170
+ 1859  sudo nmap -sU -p 300 -Pn 10.42.115.170
+ 1860  chmod +x test.sh 
+ 1861  ./test.sh 10.42.115.170 200
+ 1862  10.42.154.217
+ 1863  sudo nmap -sU -p 200-300 10.42.115.170
+ 1864  ping 10.42.154.217
+ 1865  ping 10.42.149.233
+ 1866  sudo nmap -sU -p 200-300 10.42.149.233
+ 1867  ping 10.42.149.233
+ 1868  ifconfig
+ 1869  ls
+ 1870  ping 10.42.223.53
+ 1871  sudo nmap -sU -p200-300 -sV 10.42.223.53
+ 1872  git add 100-flag.txt 
+ 1873  git commit -m"test"
+ 1874  git push
+ 1875  cd ..
+ 1876  ls
+ 1877  cd ..
+ 1878  ls
+ 1879  cd web_application_security/
+ 1880  ls
+ 1881  mkdir 0x00_web_fundamentals
+ 1882  ls
+ 1883  cd 0x00_web_fundamentals/
+ 1884  ls
+ 1885  code .
+ 1886  if config
+ 1887  ifconfig
+ 1888  sudo vi /etc/hosts
+ 1889  ping 10.42.175.77
+ 1890  curl http://web0x00.hbtn
+ 1891  ping http://web0x00.hbtn
+ 1892  cat /etc/hosts
+ 1893  curl 10.42.175.77
+ 1894  ping http://web0x00.hbtn
+ 1895  curl 10.42.175.77
+ 1896  curl http://web0x00.hbtn
+ 1897  chmod +x 1-host_header_injection.sh 
+ 1898  ./1-host_header_injection.sh new_host http://web0x00.hbtn/reset_password email=test@test.hbtn
+ 1899  git add 1-host_header_injection.sh 
+ 1900  git commit -m"test"
+ 1901  git push
+ 1902  ip addr show tun0
+ 1903  python3 -m http.server -b :: 80
+ 1904  sudo python3 -m http.server -b :: 80
+ 1905  ip addr show tun0
+ 1906  sudo python3 -m http.server -b 10.8.0.22 80
+ 1907  cd /tmp $ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
+ 1908  cd /tmp | wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb 
+ 1909  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1910  sudo apt install --fix-broken -y
+ 1911  google-chrome
+ 1912  sudo dpkg --remove --force-remove-reinstreq google-chrome-stable
+ 1913  sudo apt-get autoremove
+ 1914  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 1915  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1916  sudo python3 -m http.server -b 10.8.0.22 80
+ 1917  sudo python3 -m http.server -b :: 80
+ 1918  ls
+ 1919  sudo apt-get install xubuntu-desktop -y
+ 1920  sudo service xrdp restart
+ 1921  sudo apt install xrdp
+ 1922  sudo service xrdp restart
+ 1923  sudo service xrdp status
+ 1924  ifconfig
+ 1925  sudo service xrdp enable
+ 1926  sudo service xrdp restart
+ 1927  journalctl -u xrdp
+ 1928  sudo apt-get install -y xfce4 xfce4-goodies
+ 1929  sudo cp /etc/xrdp/xrdp.ini /etc/xrdp/xrdp.ini.bak
+ 1930  sudo sed -i 's/3389/3390/g' /etc/xrdp/xrdp.ini
+ 1931  sudo sed -i 's/max_bpp=32/#max_bpp=32\nmax_bpp=128/g' /etc/xrdp/xrdp.ini
+ 1932  sudo sed -i 's/xserverbpp=24/#xserverbpp=24\nxserverbpp=128/g' /etc/xrdp/xrdp.ini
+ 1933  ifconfig
+ 1934  sudo nano /etc/xrdp/startwm.sh
+ 1935  sudo service xrdp restart
+ 1936  sudo nano /etc/xrdp/startwm.sh
+ 1937  sudo service xrdp restart
+ 1938  xrdp.log
+ 1939  sudo nano /etc/xrdp/startwm.sh
+ 1940  sudo service xrdp restart
+ 1941  sudo nano /etc/xrdp/startwm.sh
+ 1942  sudo service xrdp restart
+ 1943  ifconfig
+ 1944  echo xfce4-session >~/.xsession
+ 1945  ls
+ 1946  wsl ~ -u root -e sh -c "nohup service xrdp start"
+ 1947  sudo service xrdp stop
+ 1948  sudo apt-get remove xrdp
+ 1949  sudo service xrdp stop
+ 1950  sudo service xrdp restart
+ 1951  sudo apt-get update
+ 1952  sudo apt install xrdp
+ 1953  sudo apt-get install xserver-xorg-core
+ 1954  sudo apt-get install xorgxrdp
+ 1955  nano /etc/polkit-1/localauthority.conf.d/02-allow-colord.conf
+ 1956  sudo nano /etc/polkit-1/localauthority.conf.d/02-allow-colord.conf
+ 1957  sudo ufw allow 3389/tcp
+ 1958  sudo /etc/init.d/xrdp restart
+ 1959  sudo service xrdp start
+ 1960  sudo apt-get autoremove
+ 1961  sudo apt-get update
+ 1962  sudo service xrdp start
+ 1963  sudo apt-gecd ..
+ 1964  ls
+ 1965  cd ..
+ 1966  ls
+ 1967  cd ..
+ 1968  ls
+ 1969  cd network_security/
+ 1970  ls
+ 1971  cd 0x04_nmap_live_hosts_discovery/
+ 1972  ls
+ 1973  history >text
+ 1974  code .
+ 1975  cat /etc/host
+ 1976  cat /etc/hosts
+ 1977  sudo python3 -m http.server -b :: 80
+ 1978  LS
+ 1979  ls
+ 1980  cd 
+ 1981  ls
+ 1982  cd Holberton_Cyber/
+ 1983  ls
+ 1984  mkdir Privilege Escalation_Shells
+ 1985  cd Privilege/
+ 1986  cd ..
+ 1987  rm -r Privilege/
+ 1988  rm -r Escalation_Shells/
+ 1989  git pull
+ 1990  mkdir Privilege_Escalation_Shells
+ 1991  cd Privilege_Escalation_Shells/
+ 1992  code .
+ 1993  cd 
+ 1994  ls
+ 1995  cd Holberton_Cyber/
+ 1996  ls
+ 1997  cd web_security/
+ 1998  ls
+ 1999  cd websec_0x0
+ 2000  cd websec_0x00/
+ 2001  ls
+ 2002  cat a.txt 
+ 2003  cd 
+ 2004  cd ls
+ 2005  cd Holberton_Cyber/
+ 2006  ls
+ 2007  cd 
+ 2008  cd holbertonschool-cyber_security/
+ 2009  ls
+ 2010  cd web_application_security/
+ 2011  ls
+ 2012  cd 0x00
+ 2013  cd 0x00_web_fundamentals/
+ 2014  ls
+ 2015  cat 1-host_header_injection.sh 
+ 2016  history > text.txt
